@@ -1,0 +1,10 @@
+{
+   
+       
+    "rewrite": [
+        {
+            "resource": "/(.*)",
+            "destination": "/index.html"
+        }
+    ]
+}
